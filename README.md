@@ -1,5 +1,5 @@
-# College_project
-Django using College Project
+# College project
+Django using College Project and
 Django Admin models
 
 
