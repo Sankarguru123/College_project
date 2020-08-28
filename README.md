@@ -1,4 +1,4 @@
-# College_project
+# College project
 Django using College Project
 
 
