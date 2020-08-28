@@ -1,5 +1,6 @@
 # College_project
 Django using College Project
+Django Admin models
 
 
 ### Package  Install
